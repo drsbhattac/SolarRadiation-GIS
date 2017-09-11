@@ -1,6 +1,5 @@
 # implementation of solar altitude (h0) and solar Azimuth (A0) in tensorflow
 
-import pvlib as pv
 import pandas as pd
 import numpy as np
 import tensorflow as tf
